@@ -3,7 +3,7 @@
 # 👋🏻 Hi, I'm Afiq Shazhan
 
 🎓 **First-Year Computer Science (Data Engineering) Student** at **Universiti Teknologi Malaysia (UTM)**  
-📍 Johor, Malaysia
+📍 Kuala Lumpur, Malaysia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afiq-shazhan-597607355)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afiqshazhan@graduate.utm.my)
