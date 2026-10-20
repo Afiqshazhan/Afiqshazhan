@@ -15,8 +15,8 @@
 ### 🎓 About Me
 
 - 🏫 Pursuing my **Ijazah Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian** at **UTM**.
-- 🔭 **Year 1, Semester 1** — Currently building strong foundational skills in programming, data structures, and database systems.
-- 🎯 **Career Goal:** Aspiring **Data Engineer**, passionate about building scalable data pipelines, data warehousing, and big data technologies.
+- 🔭 **Year 1, Semester 1** — Currently building strong foundational skills in programming, data structures, & database systems.
+- 🎯 **Career Goal:** Aspiring **Data Engineer**, passionate about building scalable data pipelines, data warehousing, & big data technologies.
 - 💬 Ask me about: Learning programming, university life at UTM, or data tech!
 
 ---
